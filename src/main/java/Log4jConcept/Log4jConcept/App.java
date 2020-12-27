@@ -1,0 +1,13 @@
+package Log4jConcept.Log4jConcept;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+    }
+}
